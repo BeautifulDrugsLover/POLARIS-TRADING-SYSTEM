@@ -1,0 +1,59 @@
+CEMENT AND CONSTRUCTIONS
+{'Textiles - Readymade Apparels', 'Trading', 'Banks - Public Sector', 'Finance - Term Lending Institutions', 'Diamond Cutting & Jewellery & Precious Metals', 'Finance - Investments', 'Hotels', 'Computers - Software', 'Finance - Leasing & Hire Purchase', 'Finance - General', 'Food Processing', 'Banks - Private Sector', 'Construction & Contracting - Real Estate', 'Finance - Housing'}
+
+CHEMICALS
+{'Breweries & Distilleries', 'Edible Oils & Solvent Extraction', 'Petrochemicals', 'Fertilisers', 'Dyes & Pigments', 'Paints & Varnishes', 'Detergents', 'Chemicals', 'Pesticides & Agro Chemicals', 'Lubricants'}
+
+CONGLOMERATES
+{'Textiles - Processing', 'Diversified'}
+
+CONSUMER DURABLES
+{'Consumer Goods - White Goods', 'Domestic Appliances'}
+
+CONSUMER NONDURABLES
+{'Personal Care', 'Dry Cells', 'Consumer Goods - Electronic', 'Leather Products'}
+
+ENGINEERING
+{'Engineering', 'Electrodes & Graphite', 'Abrasives', 'Auto Ancillaries', 'Engines', 'Infrastructure - General', 'Compressors', 'Power - Generation & Distribution', 'Engineering - Heavy', 'Electric Equipment', 'Machine Tools', 'Power - Transmission & Equipment', 'Pumps', 'Textiles - Machinery', 'Bearings', 'Steel - Medium & Small', 'Cables - Power & Others', 'Castings & Forgings'
+
+FOOD AND BEER
+{'Food Processing', 'Sugar', 'Breweries & Distilleries', 'Diversified', 'Plantations - Tea & Coffee', 'Petrochemicals', 'Vanaspati & Oils'}
+
+GOLD ETF
+{'Banks - Public Sector', 'Finance - Investments', 'Banks - Private Sector'}
+
+MANUFACTURING
+{'Textiles - Composite Mills', 'Miscellaneous', 'Glass & Glass Products', 'Textiles - Processing', 'Textiles - Spinning - Synthetic Blended', 'Textiles - Synthetic & Silk', 'Textiles - Hosiery & Knitwear', 'Castings & Forgings', 'Textiles - General', 'Electricals', 'Textiles - Manmade', 'Diversified', 'Paper', 'Textiles - Denim', 'Textiles - Spinning - Cotton Blended', 'Plastics', 'Fasteners', 'Packaging', 'Finance - Investments', 'Textiles - Weaving', 'Textiles - Woollen & Worsted', 'Textiles - Readymade Apparels'}
+
+MEDIA
+{'Computers - Software', 'Media & Entertainment', 'MEDIA & ENTERTAINMENT', 'Diamond Cutting & Jewellery & Precious Metals'}
+
+METALS AND MINING
+{'Steel - GP & GC Sheets', 'Steel - Sponge Iron', 'Steel - Rolling', 'Aluminium', 'Steel - Large', 'Construction & Contracting - Real Estate', 'Steel - CR & HR Strips', 'Mining & Minerals', 'Steel - Medium & Small', 'Steel - Tubes & Pipes', 'Metals - Non Ferrous', 'Steel - Pig Iron'}
+
+MISCELLANEOUS
+{'Power - Transmission & Equipment', 'Food Processing', 'Miscellaneous', 'Electric Equipment', 'Aquaculture', 'Printing & Stationery', 'Power - Generation & Distribution', 'Computers - Hardware', 'Mining & Minerals', 'Rubber', 'Finance - Investments', 'Diamond Cutting & Jewellery & Precious Metals', 'Paper', 'Chemicals', 'Transport & Logistics', 'Engineering', 'Pharmaceuticals', 'Packaging', 'Edible Oils & Solvent Extraction', 'Fertilisers', 'Metals - Non Ferrous', 'Computers - Software'}
+
+OIL AND GAS
+{'Refineries', 'Oil Drilling And Exploration'}
+
+PHARMACHETUCLES
+{'Construction & Contracting - Real Estate', 'Pharmaceuticals'}
+
+RETAIL/REAL ESTATE
+{'Construction & Contracting - Housing', 'Retail', 'Construction & Contracting - Real Estate'}
+
+SERVICES
+{'Hospitals & Medical Services', 'Couriers', 'Textiles - General', 'Diamond Cutting & Jewellery & Precious Metals', 'Hotels', 'Retail', 'Trading', 'Shipping', 'Transport & Logistics'}
+
+TELECOM
+{  'Telecommunications - Service', 'Telecommunications - Equipment', 'Cables - Telephone'}
+
+TOBACCO
+{'Cigarettes'}
+
+UTILITIES
+{'Power - Generation & Distribution'}
+
+
+['Computers - Software Medium & Small', 'Computers - Software', 'Computers - Hardware', 'Retail','Computers - Software - Training', 'Computers - Software Medium & Small', 'Computers - Software','Computers - Hardware', 'Computers - Software Medium & Small', 'Computers - Software','Computers - Software', 'Computers - Software - Training', 'Computers - Software Medium & Small', 'Computers - Hardware']

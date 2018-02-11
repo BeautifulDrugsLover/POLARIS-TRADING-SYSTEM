@@ -1,0 +1,321 @@
+<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/panoramicuniversal/PU" class="bl_12"><b>Panoramic Uni</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">9.15</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.05</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.54</td>
+ 						<td align="right" class="brdrgtgry">71</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/mindteckindia/MI35" class="bl_12"><b>Mindteck</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">71.10</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.40</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.56</td>
+ 						<td align="right" class="brdrgtgry">181</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/ramcosystem/RS17" class="bl_12"><b>Ramco System</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">458.20</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.60</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.56</td>
+ 						<td align="right" class="brdrgtgry">1,399</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/oraclefinancialservicessoftware/OFS01" class="bl_12"><b>Oracle Fin Serv</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">4069.15</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-23.65</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.58</td>
+ 						<td align="right" class="brdrgtgry">34,740</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/quickhealtechnologies/QHT" class="bl_12"><b>Quick Heal Tech</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">308.25</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.90</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.61</td>
+ 						<td align="right" class="brdrgtgry">2,173</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaretraining/careerpoint/CPI05" class="bl_12"><b>Career Point</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+-+Training" class="bl_12">Computers - Software - Training</a></td>
+ 						<td align="right" class="brdrgtgry">118.95</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.75</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.63</td>
+ 						<td align="right" class="brdrgtgry">216</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/trigyntechnologies/TT08" class="bl_12"><b>Trigyn Tech</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">147.30</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.95</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.64</td>
+ 						<td align="right" class="brdrgtgry">440</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/newgensoftwaretechnologiesltd/NST01" class="bl_12"><b>Newgen Software</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">236.30</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.60</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.67</td>
+ 						<td align="right" class="brdrgtgry">1,636</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computershardware/smartlinknetworksystems/SNS01" class="bl_12"><b>Smartlink Net</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Hardware" class="bl_12">Computers - Hardware</a></td>
+ 						<td align="right" class="brdrgtgry">100.45</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.70</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.69</td>
+ 						<td align="right" class="brdrgtgry">227</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/mastek/M" class="bl_12"><b>Mastek</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">476.65</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-3.60</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.75</td>
+ 						<td align="right" class="brdrgtgry">1,127</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/lttechnologyservices/LTS" class="bl_12"><b>L&T Technology</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">1312.45</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-10.10</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.76</td>
+ 						<td align="right" class="brdrgtgry">13,420</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/telecommunicationsservice/onmobileglobal/OG01" class="bl_12"><b>OnMobile Global</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Telecommunications+-+Service" class="bl_12">Telecommunications - Service</a></td>
+ 						<td align="right" class="brdrgtgry">50.65</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.40</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.78</td>
+ 						<td align="right" class="brdrgtgry">533</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/izmo/LM02" class="bl_12"><b>IZMO</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">104.85</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.15</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.08</td>
+ 						<td align="right" class="brdrgtgry">134</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/icsaindia/ICS" class="bl_12"><b>ICSA</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">3.95</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.05</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.25</td>
+ 						<td align="right" class="brdrgtgry">19</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/dynaconssystemssolutions/DSS01" class="bl_12"><b>Dynacons Sys</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">38.15</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.50</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.29</td>
+ 						<td align="right" class="brdrgtgry">26</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/palredtechnologies/FS05" class="bl_12"><b>Palred Tech</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">93.95</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.25</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.31</td>
+ 						<td align="right" class="brdrgtgry">91</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/axiscadesengineeringtechnologies/AXI" class="bl_12"><b>AXISCADES Engg</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">171.00</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.40</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.38</td>
+ 						<td align="right" class="brdrgtgry">646</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computershardware/redingtonindia/RI37" class="bl_12"><b>Redington</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Hardware" class="bl_12">Computers - Hardware</a></td>
+ 						<td align="right" class="brdrgtgry">141.90</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.00</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.39</td>
+ 						<td align="right" class="brdrgtgry">5,678</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaretraining/educompsolutions/ES8" class="bl_12"><b>Educomp Sol</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+-+Training" class="bl_12">Computers - Software - Training</a></td>
+ 						<td align="right" class="brdrgtgry">6.85</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.10</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.44</td>
+ 						<td align="right" class="brdrgtgry">84</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/terasoftware/TS14" class="bl_12"><b>Tera Software</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">61.55</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.95</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.52</td>
+ 						<td align="right" class="brdrgtgry">77</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/sonatasoftware/SS42" class="bl_12"><b>Sonata</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">285.95</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-4.80</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.65</td>
+ 						<td align="right" class="brdrgtgry">3,007</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/wipro/W" class="bl_12"><b>Wipro</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">285.00</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-4.80</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.66</td>
+ 						<td align="right" class="brdrgtgry">138,716</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/lycosinternet/LGS" class="bl_12"><b>Lycos Internet</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">5.90</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.10</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.67</td>
+ 						<td align="right" class="brdrgtgry">281</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaretraining/niit/NII" class="bl_12"><b>NIIT</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+-+Training" class="bl_12">Computers - Software - Training</a></td>
+ 						<td align="right" class="brdrgtgry">96.75</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.65</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.68</td>
+ 						<td align="right" class="brdrgtgry">1,611</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/megasoft/M08" class="bl_12"><b>Megasoft</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">14.25</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.25</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.72</td>
+ 						<td align="right" class="brdrgtgry">63</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/tanlasolutions/TS11" class="bl_12"><b>Tanla Solutions</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">32.00</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.60</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.84</td>
+ 						<td align="right" class="brdrgtgry">360</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/techmahindra/TM4" class="bl_12"><b>Tech Mahindra</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">595.25</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-13.00</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.14</td>
+ 						<td align="right" class="brdrgtgry">58,296</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/mindtree/MT13" class="bl_12"><b>Mindtree</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">717.20</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-16.10</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.20</td>
+ 						<td align="right" class="brdrgtgry">11,757</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/infosys/IT" class="bl_12"><b>Infosys</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">1109.15</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-25.10</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.21</td>
+ 						<td align="right" class="brdrgtgry">242,233</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/zentechnologies/ZT01" class="bl_12"><b>Zen Tech</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">114.80</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.90</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.46</td>
+ 						<td align="right" class="brdrgtgry">886</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/kpittechnologies/KPI02" class="bl_12"><b>KPIT Tech</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">215.25</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-5.90</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.67</td>
+ 						<td align="right" class="brdrgtgry">4,251</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/saskentechnologies/SCT01" class="bl_12"><b>Sasken Tech</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">694.90</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-20.30</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.84</td>
+ 						<td align="right" class="brdrgtgry">1,189</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/cignititechnologies/CI42" class="bl_12"><b>Cigniti Tech</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">270.50</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-8.25</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.96</td>
+ 						<td align="right" class="brdrgtgry">717</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/aurionprosolutions/PS12" class="bl_12"><b>aurionPro Sol</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">203.05</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-9.15</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-4.31</td>
+ 						<td align="right" class="brdrgtgry">470</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/hindujaglobalsolutions/HGS01" class="bl_12"><b>Hinduja Global</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">934.40</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-42.95</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-4.39</td>
+ 						<td align="right" class="brdrgtgry">1,943</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftware/3iinfotech/I11" class="bl_12"><b>3i Infotech</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software" class="bl_12">Computers - Software</a></td>
+ 						<td align="right" class="brdrgtgry">6.05</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.30</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-4.72</td>
+ 						<td align="right" class="brdrgtgry">967</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computershardware/mrotekrealty/MRO" class="bl_12"><b>MRO-TEK</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Hardware" class="bl_12">Computers - Hardware</a></td>
+ 						<td align="right" class="brdrgtgry">26.00</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-1.30</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-4.76</td>
+ 						<td align="right" class="brdrgtgry">49</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/kernexmicrosystemsindia/KMI" class="bl_12"><b>Kernex Micro</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">41.85</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-2.10</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-4.78</td>
+ 						<td align="right" class="brdrgtgry">52</td>
+ 					</tr>
+ 											<tr class="bggry">
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/californiasoftware/CS15" class="bl_12"><b>California Soft</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">73.60</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-3.85</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-4.97</td>
+ 						<td align="right" class="brdrgtgry">91</td>
+ 					</tr>
+ 											<tr >
+ 						<td class="brdrgtgry"><a href="/india/stockpricequote/computerssoftwaremediumsmall/ushamartineducationsolutions/UMI02" class="bl_12"><b>Usha Martin Edu</b></a></td>
+ 						<td class="brdrgtgry"><a href="/stocks/marketstats/indcomp.php?optex=NSE&indcode=Computers+-+Software+Medium+%26+Small" class="bl_12">Computers - Software Medium & Small</a></td>
+ 						<td align="right" class="brdrgtgry">1.05</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-0.10</td>
+ 						<td align="right" class="brdrgtgry" style="color:#d60614">-8.70</td>
+ 						<td align="right" class="brdrgtgry">3</td>
+ 					</tr>
+ 										</table>
